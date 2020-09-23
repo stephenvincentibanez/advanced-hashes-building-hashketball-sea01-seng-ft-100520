@@ -17,5 +17,6 @@ home = {
     slam_dunks: "1"
     ]
 }
+}
 end
 game_hash
