@@ -6,5 +6,6 @@ home = {
   team_name: "Brooklyn Nets",
   colors: ["Black", "White"]
 }
+}
 end
 game_hash
