@@ -6,4 +6,5 @@ game_hash = {
   away: {}
 }
 end
+end
 game_hash
