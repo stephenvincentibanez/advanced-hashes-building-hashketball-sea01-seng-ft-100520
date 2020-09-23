@@ -6,3 +6,4 @@ def game_hash
   away: {}
 }
 end
+game_hash
