@@ -4,7 +4,7 @@ require 'pry'
 def game_hash (home, away)
 home = {
   team_name: "Brooklyn Nets"
-  colors: ["Black", "White"]
+  colors = ["Black", "White"]
   players: [
     {player_name: "Alan Anderson"},
     {number: "0"},
