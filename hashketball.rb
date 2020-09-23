@@ -16,7 +16,6 @@ home = {
     blocks: "1",
     slam_dunks: "1"
     ]
-away = {}
 }
 end
 game_hash
