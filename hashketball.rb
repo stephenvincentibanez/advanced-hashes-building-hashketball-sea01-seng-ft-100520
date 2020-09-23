@@ -18,5 +18,5 @@ home = {
     ]
 }
 away = {}
-game_hash
 end
+game_hash
